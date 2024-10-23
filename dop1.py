@@ -1,5 +1,3 @@
-from collections.abc import dict_keys
-
 grades_ = [[4, 5, 5, 2], [2, 2, 2, 3], [5, 3, 3, 5, 4], [5, 5, 5, 4, 5], [4, 4, 3],]
 students = {'Johnny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'}
 grades_[0] = sum(grades_[0])/len(grades_[0])
